@@ -15,7 +15,7 @@
 }
 
 section {
-  @apply flex items-center justify-between w-[40rem];
+  @apply flex flex-col sm:flex-row items-center justify-between w-[40rem];
 }
 
 main {
